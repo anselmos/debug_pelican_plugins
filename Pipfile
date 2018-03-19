@@ -13,8 +13,10 @@ name = "pypi"
 
 pelican = "==3.7.1"
 markdown = "*"
+"bs4" = "*"
+"httplib2" = "*"
 
 
 [requires]
 
-python_version = "3.6"
+python_version = "2.7"
